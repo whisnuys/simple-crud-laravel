@@ -1,6 +1,5 @@
 ## Simple CRUD with Laravel 9
 
--   dummy data
 -   CRUD
 -   tailwindcss
 -   mysql
