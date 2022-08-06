@@ -1,6 +1,7 @@
 ## Simple CRUD with Laravel 9
 
 -   CRUD
+-   Handle login/register with manual token
 -   tailwindcss
 -   mysql
 
